@@ -1,0 +1,6 @@
+server:
+  port : 8082
+  
+studentapi:
+  studenturl: 'http://127.0.0.1:8081/student-producer'
+  studentidurl: 'http://127.0.0.1:8081/student-producer/{id}'
